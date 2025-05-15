@@ -17,7 +17,7 @@
 
 ## 🌐 Connect with Me
 - [Creatives Tee Design Store](https://my-store-d21c27.creator-spring.com)
-- Email: ayoub.dev@example.com
+- Email: ouanjiayoub09@gmail.com
 
 ## 📈 GitHub Stats
 ![Ayoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoub-dev&show_icons=true&theme=tokyonight)
